@@ -1,0 +1,9 @@
+node-modules/
+next.config.js
+coverage/
+dist/
+public/
+__mocks__/
+jest.config.ts
+postcss.config.js
+*.d.ts
